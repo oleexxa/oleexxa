@@ -11,7 +11,7 @@ I'm especially interested in what happens before the dashboard: how data is clea
 
 ## 📂 Featured Projects
 
-### [Sales Performance & Target Analysis](https://github.com/oleexxa/ccc-sales-dashboard)
+### [Sales Performance & Target Analysis](https://github.com/oleexxa/ccc-sales-dashboard](https://github.com/oleexxa/sales-performance-target-analysis)
 **SQL · Power BI · Power Query · DAX**
 
 Multi-page Power BI analysis focused on sales performance, target achievement and business KPIs, supported by a documented SQL data-cleaning pipeline.
